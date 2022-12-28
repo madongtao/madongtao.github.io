@@ -6,7 +6,7 @@
   <link href="https://madongtao.github.io/atom.xml" rel="self"/>
   
   <link href="https://madongtao.github.io/"/>
-  <updated>2022-12-28T07:49:51.917Z</updated>
+  <updated>2022-12-28T15:02:26.899Z</updated>
   <id>https://madongtao.github.io/</id>
   
   <author>
@@ -17,22 +17,109 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://madongtao.github.io/posts/4a17b156.html"/>
-    <id>https://madongtao.github.io/posts/4a17b156.html</id>
-    <published>2022-12-28T07:20:18.393Z</published>
-    <updated>2022-12-28T07:49:51.917Z</updated>
+    <title></title>
+    <link href="https://madongtao.github.io/posts/0.html"/>
+    <id>https://madongtao.github.io/posts/0.html</id>
+    <published>2022-12-28T15:02:26.899Z</published>
+    <updated>2022-12-28T15:02:26.899Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>把雷神补到二命了</title>
+    <link href="https://madongtao.github.io/posts/4e050933.html"/>
+    <id>https://madongtao.github.io/posts/4e050933.html</id>
+    <published>2022-12-28T14:26:50.000Z</published>
+    <updated>2022-12-28T14:27:21.315Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="抽卡"><a href="#抽卡" class="headerlink" title="抽卡"></a>抽卡</h1><blockquote><p>小孩子不懂事抽着玩的</p></blockquote>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1 id=&quot;抽卡&quot;&gt;&lt;a href=&quot;#抽卡&quot; class=&quot;headerlink&quot; title=&quot;抽卡&quot;&gt;&lt;/a&gt;抽卡&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;小孩子不懂事抽着玩的&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
       
     
     
     
+    
+    <category term="原神" scheme="https://madongtao.github.io/tags/%E5%8E%9F%E7%A5%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阳光不燥，微风正好</title>
+    <link href="https://madongtao.github.io/posts/b8cf1317.html"/>
+    <id>https://madongtao.github.io/posts/b8cf1317.html</id>
+    <published>2022-12-28T12:56:50.000Z</published>
+    <updated>2022-12-28T14:33:06.575Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><blockquote><p>一个人生来就有超凡的本领，做什么事情都轻而易举的话，当然不算是英雄，唯有一个会受伤会害怕的人，拼尽全力去做一件事情，这样才称得上英雄。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot; &quot;&gt;&lt;/a&gt; &lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;一个人生来就有超凡的本领，做什么事情都轻而易举的话，当然不算是英雄，唯有一个会受伤会害怕的人，拼尽全力去做一件事情，这样才称得</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="https://madongtao.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阳光不燥，微风正好</title>
+    <link href="https://madongtao.github.io/posts/b8cf1317.html"/>
+    <id>https://madongtao.github.io/posts/b8cf1317.html</id>
+    <published>2022-12-28T12:56:50.000Z</published>
+    <updated>2022-12-28T13:07:30.734Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><blockquote><p>一个人生来就有超凡的本领，做什么事情都轻而易举的话，当然不算是英雄，唯有一个会受伤会害怕的人，拼尽全力去做一件事情，这样才称得上英雄。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot; &quot;&gt;&lt;/a&gt; &lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;一个人生来就有超凡的本领，做什么事情都轻而易举的话，当然不算是英雄，唯有一个会受伤会害怕的人，拼尽全力去做一件事情，这样才称得</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="https://madongtao.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阳光不燥，微风正好</title>
+    <link href="https://madongtao.github.io/posts/b8cf1317.html"/>
+    <id>https://madongtao.github.io/posts/b8cf1317.html</id>
+    <published>2022-12-28T12:56:50.000Z</published>
+    <updated>2022-12-28T13:07:30.734Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><blockquote><p>一个人生来就有超凡的本领，做什么事情都轻而易举的话，当然不算是英雄，唯有一个会受伤会害怕的人，拼尽全力去做一件事情，这样才称得上英雄。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot; &quot;&gt;&lt;/a&gt; &lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;一个人生来就有超凡的本领，做什么事情都轻而易举的话，当然不算是英雄，唯有一个会受伤会害怕的人，拼尽全力去做一件事情，这样才称得</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="https://madongtao.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
