@@ -11,25 +11,7 @@
   </url>
   
   <url>
-    <loc>https://madongtao.github.io/posts/b8cf1317.html</loc>
-    
-    <lastmod>2022-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://madongtao.github.io/posts/bfa8dbf2.html</loc>
-    
-    <lastmod>2022-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://madongtao.github.io/posts/4e050933.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -56,14 +38,14 @@
 
   
   <url>
-    <loc>https://madongtao.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://madongtao.github.io/tags/%E5%8E%9F%E7%A5%9E/</loc>
     <lastmod>2022-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://madongtao.github.io/tags/%E5%8E%9F%E7%A5%9E/</loc>
+    <loc>https://madongtao.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
