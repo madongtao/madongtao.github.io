@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://madongtao.github.io/posts/0.html</loc>
+    <loc>https://madongtao.github.io/manifest.json</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://madongtao.github.io/posts/b8cf1317.html</loc>
+    
+    <lastmod>2022-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://madongtao.github.io/posts/bfa8dbf2.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -30,24 +39,6 @@
   
   <url>
     <loc>https://madongtao.github.io/posts/b8cf1317.html</loc>
-    
-    <lastmod>2022-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://madongtao.github.io/posts/b8cf1317.html</loc>
-    
-    <lastmod>2022-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://madongtao.github.io/manifest.json</loc>
     
     <lastmod>2022-12-28</lastmod>
     
