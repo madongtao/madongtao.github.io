@@ -4,7 +4,16 @@
   <url>
     <loc>https://madongtao.github.io/manifest.json</loc>
     
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2022-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://madongtao.github.io/posts/a3c1f25b.html</loc>
+    
+    <lastmod>2022-12-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>https://madongtao.github.io/posts/ad0abb32.html</loc>
     
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2022-12-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>https://madongtao.github.io/posts/b8cf1317.html</loc>
     
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2022-12-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,22 +40,29 @@
 
   <url>
     <loc>https://madongtao.github.io/</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2022-12-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://madongtao.github.io/tags/%E5%AE%89%E8%BE%BE%E4%B8%8E%E5%B2%9B%E6%9D%91/</loc>
+    <lastmod>2022-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://madongtao.github.io/tags/%E5%8E%9F%E7%A5%9E/</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2022-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://madongtao.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2022-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
