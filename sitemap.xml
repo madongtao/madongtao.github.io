@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.madongtao.cn/manifest.json</loc>
+    <loc>https://madongtao.cn/manifest.json</loc>
     
     <lastmod>2022-12-31</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.madongtao.cn/posts/a3c1f25b.html</loc>
+    <loc>https://madongtao.cn/posts/a3c1f25b.html</loc>
     
     <lastmod>2022-12-31</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.madongtao.cn/posts/ad0abb32.html</loc>
+    <loc>https://madongtao.cn/posts/ad0abb32.html</loc>
     
     <lastmod>2022-12-31</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.madongtao.cn/posts/b8cf1317.html</loc>
+    <loc>https://madongtao.cn/posts/b8cf1317.html</loc>
     
     <lastmod>2022-12-31</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>https://www.madongtao.cn/</loc>
+    <loc>https://madongtao.cn/</loc>
     <lastmod>2022-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -47,21 +47,21 @@
 
   
   <url>
-    <loc>https://www.madongtao.cn/tags/%E5%AE%89%E8%BE%BE%E4%B8%8E%E5%B2%9B%E6%9D%91/</loc>
+    <loc>https://madongtao.cn/tags/%E5%AE%89%E8%BE%BE%E4%B8%8E%E5%B2%9B%E6%9D%91/</loc>
     <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.madongtao.cn/tags/%E5%8E%9F%E7%A5%9E/</loc>
+    <loc>https://madongtao.cn/tags/%E5%8E%9F%E7%A5%9E/</loc>
     <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.madongtao.cn/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://madongtao.cn/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
