@@ -76,6 +76,50 @@
     
     <entry>
       <title></title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Document</title></head><body>    <h1>这是关于我的一些事，还在施工中，请期待。。。</h1></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/3dCard/in3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='/categories/原神'>  <card data-image="https://img01.anzhiy.cn/useruploads/49/2022/12/29/63ad86a8330e5.jpg">    <h1 slot="header">原神</h1>    <p slot="content">原神记录</p>  </card></a><a href='/categories/番剧推荐'>  <card data-image="https://img01.anzhiy.cn/useruploads/49/2022/12/29/63ad86c39001e.jpg">    <h1 slot="header">番剧推荐</h1>    <p slot="content">本人看过的还算喜欢的番剧，推荐</p>  </card></a></div></div><div class='js-pjax'><script src='https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js'></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/3dCard/in3d.js"></script></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>纪念自己的二命雷神</title>
+      <link href="/categories/%E5%8E%9F%E7%A5%9E.html"/>
+      <url>/categories/%E5%8E%9F%E7%A5%9E.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="抽卡"><a href="#抽卡" class="headerlink" title="抽卡"></a>抽卡</h1><blockquote><p>上次就一命了，不过忍住了没氪金捞二命，这次大保底80多发硬捞出来。。小孩子不懂事抽着玩的</p></blockquote>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/categories/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90.html"/>
+      <url>/categories/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90.html</url>
+      
+        <content type="html"><![CDATA[<hr>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
@@ -124,6 +168,17 @@
       <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Document</title></head><body>    <h1>这是我的音乐馆，目前还在施工中，请期待...</h1></body></html>]]></content>
       
     </entry>
     

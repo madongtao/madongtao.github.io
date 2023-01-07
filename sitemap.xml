@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://madongtao.cn/music/index.html</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://madongtao.cn/posts/a3c1f25b.html</loc>
     
     <lastmod>2023-01-07</lastmod>
@@ -39,6 +48,42 @@
   
   <url>
     <loc>https://madongtao.cn/posts/b8cf1317.html</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://madongtao.cn/about/index.html</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://madongtao.cn/categories/index.html</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://madongtao.cn/categories/%E5%8E%9F%E7%A5%9E.html</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://madongtao.cn/categories/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90.html</loc>
     
     <lastmod>2023-01-07</lastmod>
     
